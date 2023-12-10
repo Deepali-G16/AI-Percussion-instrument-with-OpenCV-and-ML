@@ -1,4 +1,4 @@
-# AI-Percussion-instrument-with-OpenCV-and-ML
+# AI-Percussion-instrument-with-RPi using OpenCV-and-mediapipe ML
 This is the code for AI drums which are played by wiggling fingers in the air. Bend of every finger tip plays a unique drum beat. 
 I have synced it to the sound of percussion, but you can sync it to any musical instrument of your choice.
 This project works by tracking hands through Computer vision and recognising hand gestures through machine learning model. 
