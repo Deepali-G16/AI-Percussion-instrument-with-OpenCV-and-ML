@@ -7,4 +7,9 @@ With this model, we track the position of finger tips with respect to the positi
 I've linked every finger to a unique drum beat. And we can play a symphony by just wiggling our fingers in the air. 
 I have synced it to tabla-drums mp3 files, you can sync it to any musical instrument of your choice.
 
+Optional upgrades to your musical AI project:
+You can add a set of LEDs to glow with each drum beat. You could use GPIO pins on your Pi for this.
+I have connected four light buttons to GPIO pins.The code already has the logic to turn these LEDs on and off along with the musical notes. 
+
+
 Prerequisites : Need to install mediapipe packages on RasPi
